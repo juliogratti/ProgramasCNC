@@ -1,0 +1,22 @@
+type list
+version 0
+NCProgram\
+NCProgram\usinagem [f8 p1.7] reload
+Toolpath\
+Toolpath\1
+Toolpath\2
+Tool\
+Tool\1
+Boundary\
+Boundary\1
+Boundary\2
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\Part1
+StockModel\
+Group\
+Macro\

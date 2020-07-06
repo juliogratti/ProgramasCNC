@@ -1,0 +1,11 @@
+8 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+12 set 2018 15.10.13
+x12fb8cf05b9954ef00000a9d00000000.pmlent pmlEntLevel '1'
+x150f55f05b99550000000c2800000000.pmlent pmlEntTool '1'
+x156c51105b99552e0000170600000000.pmlent pmlEntToolpath '1'
+x1570f3805b99553800001e2300000000.pmlent pmlEntBoundary '1'
+x156e12005b995594000037fe00000000.pmlent pmlEntBoundary '2'
+x14101a005b9955bf0000494800000000.pmlent pmlEntToolpath '2'
+x0f7de1e05b9955f800005d2d00000000.pmlent pmlEntNCProgram 'usinagem [f8 p1.7] reload'
+x12fa62c05b9954ee00000a2600000000.pmlent pmlEntModel 'Part1'

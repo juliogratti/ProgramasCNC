@@ -1,0 +1,14 @@
+11 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+16 jun 2020 13.54.54
+x16c84b305ee8f53400000a6500000000.pmlent pmlEntLevel '1'
+x16c9aa905ee8f55c00000b3f00000000.pmlent pmlEntTool '1'
+x18f2f9905ee8f6ae00003c6f00000000.pmlent pmlEntToolpath 'acabamento_p0,7'
+x18727bb05ee8f6bf0000404300000000.pmlent pmlEntBoundary '1'
+x18fc1f705ee8f6fe00004ced00000000.pmlent pmlEntToolpath 'acabamento_p1,5'
+x18f4e7d05ee8f72700005a6d00000000.pmlent pmlEntToolpath 'acabamento_p1'
+x0c71c0e05ee8f751000067e700000000.pmlent pmlEntNCProgram 'usinagem[f12r_p0,7]'
+x0c7262505ee8f7690000680000000000.pmlent pmlEntNCProgram 'usinagem[f12r_p1]'
+x0c725e905ee8f78e0000682000000000.pmlent pmlEntNCProgram 'usinagem[f12r_p1,5]'
+x18f5f3705ee8f83100008a0300000000.pmlent pmlEntToolpath 'desbaste'
+x16c691405ee8f52d00000a2600000000.pmlent pmlEntModel 'Peça1'

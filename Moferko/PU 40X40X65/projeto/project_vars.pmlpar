@@ -1,0 +1,24 @@
+{
+	"type" : "Project",
+	"time" : "1544609659",
+	"version" : "0"
+}
+{
+	"Customer" "S" "Nome do cliente a que este projeto se refere." "13b0fc105c10d72f00006f1a00000000" : "",
+	"TextBlocks" "M" "Um suporte de posição para objetos de texto." "13b0e3f05c10d72f00006f1c00000000" : {
+	},
+	"ThicknessSets" "M" "Um suporte de posição para configuração sobre-metal." "13b090a05c10d72f00006f1e00000000" : {
+	},
+	"PartName" "S" "Nome da peça para este projeto." "13b090405c10d72f00006f2000000000" : "",
+	"ProjectHistory" "LM" "histórico de projeto." "13b080a05c10d72f00006f2200000000" : (
+		{
+			"ClientName" "S" "Nome de produto do cliente." "13b0d9005c10d72f00006f2400000000" : "PowerMILL",
+			"ClientVersion" "S" "Versão de produto do cliente." "13b08d305c10d72f00006f2600000000" : "9003",
+			"DmkCodebase" "S" "número codebase de bibliotecas delcam" "13b083905c10d72f00006f2800000000" : "1111121"
+		}
+	),
+	"Tolerances" "M" "Um suporte de posição para valores de tolerância." "13b091605c10d72f00006f2a00000000" : {
+	},
+	"OrderNumber" "S" "Número de pedido para este projeto." "13b0c0d05c10d72f00006f2c00000000" : "",
+	"Notes" "S" "Notas para este projeto." "13b085f05c10d72f00006f2e00000000" : ""
+}

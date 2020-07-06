@@ -1,0 +1,20 @@
+type list
+version 0
+NCProgram\
+NCProgram\usinagem [f12r - p0,2]
+Toolpath\
+Toolpath\1
+Toolpath\2
+Tool\
+Tool\1
+Boundary\
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\Part1
+StockModel\
+Group\
+Macro\

@@ -1,0 +1,2 @@
+1) Cortar peça com 314,3
+2) fazer usinagem considerando o zero peça no lado esquerdo central da peça

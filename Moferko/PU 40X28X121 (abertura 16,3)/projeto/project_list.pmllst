@@ -1,0 +1,26 @@
+type list
+version 0
+NCProgram\
+NCProgram\programa [f8]
+Toolpath\
+Toolpath\1
+Toolpath\2
+Toolpath\3
+Toolpath\4
+Toolpath\5
+Tool\
+Tool\1
+Boundary\
+Boundary\1
+Boundary\2
+Boundary\3
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\Part1
+StockModel\
+Group\
+Macro\

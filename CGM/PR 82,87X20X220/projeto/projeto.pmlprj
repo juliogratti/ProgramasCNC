@@ -1,0 +1,16 @@
+13 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+01 fev 2017 18.29.38
+x14be5c205891f6de00000a6900000000.pmlent pmlEntLevel '1'
+x14c9a0d05891f72200000ba900000000.pmlent pmlEntTool '1'
+x06a1ac405891f937000039bc00000000.pmlent pmlEntBoundary '1'
+x03cb2ee05891f93c00003d1900000000.pmlent pmlEntBoundary '2'
+x06c060f058920d5d0000d6bf00000000.pmlent pmlEntNCProgram 'usinagem'
+x0a3a627058923ce10000dd9b00000000.pmlent pmlEntBoundary '3'
+x06c6601058923dfb0001044600000000.pmlent pmlEntBoundary '4'
+x18fde03058923e1f000112d100000000.pmlent pmlEntNCProgram 'desbaste'
+x15ad09805892427f0001ee0500000000.pmlent pmlEntNCProgram 'furação'
+x0ae783f05892428c0001ef6600000000.pmlent pmlEntToolpath '1'
+x1a5f38405892432c00020c7a00000000.pmlent pmlEntToolpath '2'
+x1a5ff7c05892449400021be300000000.pmlent pmlEntToolpath '3'
+x14c1ace05891f6d600000a2600000000.pmlent pmlEntModel 'desenho - PR 82,87x22'

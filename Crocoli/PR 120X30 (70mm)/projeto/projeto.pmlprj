@@ -1,0 +1,11 @@
+8 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+19 fev 2020 08.04.55
+x05ce67705e4d155500000a6500000000.pmlent pmlEntLevel '1'
+x170d72f05e4d156c00000b0300000000.pmlent pmlEntTool '1'
+x171636d05e4d157700000bc600000000.pmlent pmlEntTool '2'
+x0ca64ce05e4d15b300001c5a00000000.pmlent pmlEntToolpath '1'
+x1df06cf05e4d15b90000204400000000.pmlent pmlEntBoundary '1'
+x0f7cb5c05e4d15db00002e0200000000.pmlent pmlEntToolpath '2'
+x0ca9c1105e4d16120000400c00000000.pmlent pmlEntNCProgram 'usinagem [f12r]'
+x170b86705e4d155000000a2600000000.pmlent pmlEntModel 'desenho'

@@ -1,0 +1,25 @@
+type list
+version 0
+NCProgram\
+NCProgram\usinagem[f12r_p0,7]
+NCProgram\usinagem[f12r_p1]
+NCProgram\usinagem[f12r_p1,5]
+Toolpath\
+Toolpath\acabamento_p0,7
+Toolpath\acabamento_p1,5
+Toolpath\acabamento_p1
+Toolpath\desbaste
+Tool\
+Tool\1
+Boundary\
+Boundary\1
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\Peça1
+StockModel\
+Group\
+Macro\

@@ -1,0 +1,10 @@
+7 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+27 mai 2020 11.29.54
+x15cd46305ece783200000a6500000000.pmlent pmlEntLevel '1'
+x15d295a05ece785500000b3400000000.pmlent pmlEntTool '1'
+x18bc3dc05ece78ac00000db200000000.pmlent pmlEntToolpath '1'
+x0368da705ece78b30000119b00000000.pmlent pmlEntBoundary '1'
+x0376c5505ece78e10000209c00000000.pmlent pmlEntToolpath '2'
+x176086f05ece791900002d8600000000.pmlent pmlEntNCProgram 'usinagem [f12r p1]'
+x15cb86805ece783100000a2600000000.pmlent pmlEntModel 'Peça1'

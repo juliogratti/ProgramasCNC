@@ -1,0 +1,9 @@
+6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+12 set 2019 14.02.55
+x0385eba05d7a78c800000ad500000000.pmlent pmlEntLevel '1'
+x038e27c05d7a78f700000cfb00000000.pmlent pmlEntTool '1'
+x1daf9f405d7a794700004bb600000000.pmlent pmlEntToolpath '1'
+x14d374805d7a7965000066a300000000.pmlent pmlEntToolpath '2'
+x0f5c5f305d7a79c10000805400000000.pmlent pmlEntNCProgram 'usinagem [f8 p1,5]'
+x16fb83b05d7a78c300000a2600000000.pmlent pmlEntModel 'Peça1'

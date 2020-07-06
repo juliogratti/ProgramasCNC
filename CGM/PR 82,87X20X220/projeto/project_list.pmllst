@@ -1,0 +1,27 @@
+type list
+version 0
+NCProgram\
+NCProgram\usinagem
+NCProgram\desbaste
+NCProgram\furação
+Toolpath\
+Toolpath\1
+Toolpath\2
+Toolpath\3
+Tool\
+Tool\1
+Boundary\
+Boundary\1
+Boundary\2
+Boundary\3
+Boundary\4
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\desenho - PR 82,87x22
+StockModel\
+Group\
+Macro\

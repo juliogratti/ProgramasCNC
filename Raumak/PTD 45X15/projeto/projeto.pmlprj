@@ -1,0 +1,9 @@
+6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+23 set 2019 12.43.37
+x168ae0205d88e76500000a6500000000.pmlent pmlEntLevel '1'
+x1694d0405d88e78900000c4a00000000.pmlent pmlEntTool '1'
+x1e1afc005d88e79300000e4300000000.pmlent pmlEntToolpath '1'
+x168b66d05d88e7a10000127d00000000.pmlent pmlEntBoundary '1'
+x18ac00205d88e7cf0000230200000000.pmlent pmlEntNCProgram 'usinagem [f12r] - centro no raio da peça'
+x168984305d88e75f00000a2600000000.pmlent pmlEntModel 'Peça1'
