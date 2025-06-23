@@ -1,0 +1,30 @@
+Conversão do Solid Edge para o STEP
+Data: Monday,April 22,2024 03:40PM
+Arquivo de saída: P:\DESENHOS ROUTER\RAZZ\PR 75X70X200 UH\PR 75X75X200 UH.stp
+Autor: Unknown
+Organização: Unknown
+Sistema de origem: Solid Edge
+
+Hardware:
+Processador: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+Sistema operacional: Windows 8 Professional
+Memória instalada: 7.93 GB
+
+Informações do software
+Versão do Parasolid: 30.0.167
+Versão do PSBodyShop: 30.0.81
+Versão do Adaptador de Passo: 3.0.52
+Versão do Solid Edge: 110.00.00.107 x64
+
+Opções de exportação do STEP
+Exportar Formato: AP214
+Exportar folhas de construção: Desativado
+Exportar sólidos de construção: Desativado
+Exportar fios de construção: Desativado
+Exportar somente peças exibidas: Desativado
+Exportar unidades: Millimeters
+Exportar Nomes de Componente de Peça como Unicode: Desativado
+
+Fase 1 de 1 Convertendo Parasolid em tipos de dados externos...
+Processo de conversão completo
+Tempo necessário para converter:00 : 00 : 01

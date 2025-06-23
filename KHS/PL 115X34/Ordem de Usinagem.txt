@@ -1,4 +1,0 @@
-1) furo na ponta (fresa)
-2) raio (cnc)
-3) rebaixo de 10 e furo superior (fresa)
-4) usinagem de cima (cnc)

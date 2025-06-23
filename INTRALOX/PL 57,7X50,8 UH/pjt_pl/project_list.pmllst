@@ -1,0 +1,20 @@
+type list
+version 0
+NCProgram\
+NCProgram\USINAGEM [F6]
+Toolpath\
+Toolpath\1
+Tool\
+Tool\1
+Boundary\
+Boundary\1
+Pattern\
+Featureset\
+Workplane\
+Level\
+Level\1
+Model\
+Model\desenho_pl_57,7_50,8
+StockModel\
+Group\
+Macro\

@@ -1,9 +1,0 @@
-6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
-0 0
-16 mar 2018 08.33.51
-x145c90105aaba9b40000177000000000.pmlent pmlEntLevel '1'
-x146c55f05aaba9e40000190400000000.pmlent pmlEntTool '1'
-x14c3cf405aabaa390000322400000000.pmlent pmlEntToolpath '1'
-x1472dd405aabaafd0000748e00000000.pmlent pmlEntToolpath '2'
-x0d533ea05aabab23000082b400000000.pmlent pmlEntNCProgram 'usinagem [f12r - p0,2]'
-x146704305aaba9b30000173100000000.pmlent pmlEntModel 'Part1'

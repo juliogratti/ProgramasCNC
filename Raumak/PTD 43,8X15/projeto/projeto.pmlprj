@@ -1,9 +1,0 @@
-6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
-0 0
-19 set 2019 10.12.16
-x170ecad05d837dd000000a6100000000.pmlent pmlEntLevel '1'
-x171452205d837de900000b7f00000000.pmlent pmlEntTool '1'
-x0f69c8505d837e27000011d900000000.pmlent pmlEntToolpath '1'
-x0f581ba05d837e360000147d00000000.pmlent pmlEntBoundary '1'
-x0f5d51705d837e7800001f1400000000.pmlent pmlEntNCProgram 'usinagem [f8]'
-x170d86b05d837dcf00000a2600000000.pmlent pmlEntModel 'Peça1'

@@ -1,0 +1,6 @@
+
+
+
+1)[ferramenta 06]  programa "PROGRAMA_14PCS" faz o furo e recorte externo
+
+2) [ferramenta 12] programa "REBAIXO_INTERNO_01PC" faz o rebaixo. Serve para os dois lados da peça. 

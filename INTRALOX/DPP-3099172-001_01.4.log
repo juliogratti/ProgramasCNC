@@ -1,0 +1,39 @@
+Conversão de STEP para o Solid Edge
+Data: quarta-feira,fevereiro 07,2024 05:07
+Arquivo de Origem: P:\DESENHOS ROUTER\INTRALOX\DPP-3099172-001_01.4.stp
+Autor: ANB
+Organização: Desconhecido
+Sistema de origem: Autodesk Inventor 2023
+
+Hardware:
+Processador: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz
+Sistema operacional: Windows 8 Professional
+Memória instalada: 7.93 GB
+
+Informações do software
+Versão do Parasolid: 30.0.167
+Versão do PSBodyShop: 30.0.81
+Versão do Adaptador de Passo: 3.0.52
+Versão do Solid Edge: 110.00.00.107 x64
+
+Opções de importação do STEP
+Importar Corpos Facetados: Ativo
+Importar Corpos de Verificação: Desativado
+Importar Curvas: Ativo
+Importar NãoSalvar: Ativo
+Importar Várias Corpos como um Único Arquivo de Peça: Ativo
+Importar Superfícies de Costura: Ativo
+Importar Sólidos Booleanos: Ativo
+Tornar recurso básico: Ativo
+Simplificar geometria: Ativo
+Importar Curvas de Impressão: Ativo
+Importar Unidade: C:
+Importar Superfícies de Costura: Ativo
+Importar Superfícies: Ativo
+Importar Caminho de Saída: P:\DESENHOS ROUTER\INTRALOX
+Importar Habilitar Caminho de Saída Padrão: Ativo
+Importar Caminho: 
+
+Convertendo para tipos de dado do Parasolid...
+Processo de conversão completo
+Tempo total necessário para converter e processar posteriormente:00 : 00 : 00

@@ -1,6 +1,0 @@
-	TEMPO: 13 minutos (cnc)
-
-1) fazer chanfro de 3,5 na parte de baixo
-2) chanfro na parte de cima (para aliviar a abertura do ragso)
-3) usinar na cnc
-4) fazer os chanfros restantes

@@ -1,0 +1,4 @@
+1) cortar pr 50x10 com 140mm de comprimento
+2) rodar programa de furação
+3) prender pelos furos
+4) rodar programa de recorte externo

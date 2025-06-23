@@ -1,0 +1,9 @@
+6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
+0 0
+27 jun 2024 16.04.55
+x157f7a00667db5cc00000a6500000000.pmlent pmlEntLevel '1'
+x042cb090667db6c4000014ff00000000.pmlent pmlEntTool '1'
+x0b7595c0667db6cd000015c800000000.pmlent pmlEntBoundary '1'
+x175bd2e0667db7700000665000000000.pmlent pmlEntToolpath '1'
+x1750f170667db7960000732200000000.pmlent pmlEntNCProgram 'USINAGEM [F6]'
+x157e02e0667db5ca00000a2600000000.pmlent pmlEntModel 'desenho_pl_57,7_50,8'

@@ -1,0 +1,6 @@
+cortar a chapa com 250mm de largura e rebaixar para 18 na desengrossadeira
+programa faz 4 peças por vez
+
+zero peça: x0, y0
+
+1) fresa de 6mm faz a canaleta interna, furação e recorte

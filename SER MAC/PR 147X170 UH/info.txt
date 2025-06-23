@@ -1,0 +1,7 @@
+
+	TIRAR DA CHAPA DE 20MM PARA QUE A PEÇA FIQUE RETA
+
+1) cortar peça com largura de 210 (ou um pouco menor [205])
+2) rebaixar para 15 de espessura 
+3) fresa de 5mm
+4) saem 06 peças a cada metro

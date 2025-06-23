@@ -1,9 +1,0 @@
-6 3 9003 1111121 # Entity Index (DO NOT EDIT!)
-0 0
-04 set 2017 09.32.01
-x12ebe04059ad46b700000a6900000000.pmlent pmlEntLevel '1'
-x12effdd059ad46c200000b1500000000.pmlent pmlEntTool '1'
-x1615c85059ad46cc00000d1f00000000.pmlent pmlEntToolpath '1'
-x1b1d6a3059ad477400002e8000000000.pmlent pmlEntToolpath '2'
-x1b13ef7059ad479c00003cd500000000.pmlent pmlEntNCProgram 'Usinagem (f12 pastilha)'
-x12ea5b6059ad46b600000a2600000000.pmlent pmlEntModel 'Part1'
